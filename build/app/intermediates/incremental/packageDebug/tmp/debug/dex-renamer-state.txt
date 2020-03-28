@@ -1,0 +1,4 @@
+#Sat Mar 28 14:23:40 NPT 2020
+base.0=/Users/lokesh/flutters/flutter_projects/who/app/client/flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
